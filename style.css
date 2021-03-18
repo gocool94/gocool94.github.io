@@ -10,7 +10,8 @@ html {
   background-size: cover;
 }
 
-h1 {
+h1,
+a {
 
 	font-size: 3rem;
 	color: white;
